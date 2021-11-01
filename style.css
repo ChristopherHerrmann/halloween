@@ -1,0 +1,15 @@
+body {
+background-color: grey;
+text-align: center;
+text-shadow: 2px black;
+}
+
+.gs {
+  background-color: grey;
+}
+
+.do-this-so-it-doesnt-look-like-hyperlink-and-more-like-a-button {
+  background-color: red;
+  font: Quicksand;
+}
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
